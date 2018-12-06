@@ -1,7 +1,7 @@
 Cura IMADE3D Edition
 ====================
 
-This is a version of [Ultimaker Cura](https://github.com/ultimaker/cura) customised to support the [IMADE3D JellyBOX 3D Printers](http://www.imade3d.com).
+This is a version of [Ultimaker Cura](https://github.com/ultimaker/cura) customised to support [IMADE3D JellyBOX 3D Printers](http://www.imade3d.com).
 
 Logging Issues
 ------------
