@@ -1,11 +1,7 @@
 Cura IMADE3D Edition
 ====================
 
-This is a version of Ultimaker Cura customised to support the IMADE3D JellyBOX 3D Printers.
-BLACKBELT Cura
-====
-This is a version of [Ultimaker Cura](https://github.com/ultimaker/cura) customised to support the [BLACKBELT 3D Printer](https://blackbelt-3d.com/) with a slanted gantry.
-
+This is a version of [Ultimaker Cura](https://github.com/ultimaker/cura) customised to support the [IMADE3D JellyBOX 3D Printers](http://www.imade3d.com).
 
 Logging Issues
 ------------
