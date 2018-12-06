@@ -1,9 +1,7 @@
-Cura
-====
+Cura IMADE3D Edition
+====================
 
-This is the new, shiny frontend for Cura. [daid/Cura](https://github.com/daid/Cura.git) is the old legacy Cura that everyone knows and loves/hates.
-
-We re-worked the whole GUI code at Ultimaker, because the old code started to become a unmaintainable.
+This is a version of Ultimaker Cura customised to support the IMADE3D JellyBOX 3D Printers.
 
 
 Logging Issues
