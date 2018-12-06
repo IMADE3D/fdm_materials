@@ -148,7 +148,7 @@ class CuraApplication(QtApplication):
     Q_ENUMS(ResourceTypes)
 
     def __init__(self, *args, **kwargs):
-        super().__init__(name = "imade3d-cura",
+        super().__init__(name = "cura-imade3d-edition",
                          version = CuraVersion,
                          buildtype = CuraBuildType,
                          is_debug_mode = CuraDebugMode,
