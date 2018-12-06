@@ -66,7 +66,8 @@ UM.Dialog
         width: parent.width
 
         //: About dialog application author note
-        text: catalog.i18nc("@info:credit","Cura is developed by Ultimaker B.V. in cooperation with the community.\nCura proudly uses the following open source projects:")
+        text: catalog.i18nc("@info:credit","Cura IMADE3D Edition is made by IMADE3D LLC for use with IMADE3D printers. It is a fork of Cura, which is developed by Ultimaker B.V. in cooperation
+with an open community.\nCura proudly uses the following open source projects:")
         font: UM.Theme.getFont("system")
         wrapMode: Text.WordWrap
         anchors.top: description.bottom

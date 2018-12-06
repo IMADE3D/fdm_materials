@@ -1059,7 +1059,7 @@ Item
                 onModelChanged: populateExtruderModel()
             }
 
-            Item
+            /*Item
             {
                 id: tipsCell
                 anchors.top: adhesionCheckBox.visible ? adhesionCheckBox.bottom : (enableSupportCheckBox.visible ? supportExtruderCombobox.bottom : infillCellRight.bottom)
@@ -1083,7 +1083,7 @@ Item
                     linkColor: UM.Theme.getColor("text_link")
                     onLinkActivated: Qt.openUrlExternally(link)
                 }
-            }
+            }*/
 
             UM.SettingPropertyProvider
             {
