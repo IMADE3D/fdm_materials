@@ -10,7 +10,7 @@ Generic PLA 1.75mm profile. The data in this file may not be correct for your sp
             <color>Generic</color>
         </name>
         <GUID>e7cda2de-0ad6-441e-9340-6d408c98def2</GUID>
-        <version>3</version>
+        <version>4</version>
         <color_code>#a5da00</color_code>
         <description>PLA is ideal for fast and reliable printing.</description>
         <adhesion_info>Use blue tape with cold bed and a bare PEI sheet with hot bed.</adhesion_info>
@@ -22,9 +22,7 @@ Generic PLA 1.75mm profile. The data in this file may not be correct for your sp
     <settings>
         <setting key="print temperature">210</setting>
         <setting key="heated bed temperature">55</setting>
-        <setting key="standby temperature">175</setting>
-        <setting key="adhesion tendency">0</setting>
-        <setting key="surface energy">100</setting>
+        <setting key="standby temperature">180</setting>
 
         <machine>
             <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX"/>
@@ -37,7 +35,7 @@ Generic PLA 1.75mm profile. The data in this file may not be correct for your sp
                 <cura:setting key="cool_fan_speed_min">80</cura:setting>
             </hotend>
         </machine>
-        
+
         <machine>
             <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX 2"/>
             <hotend id="0.4 mm">
@@ -49,6 +47,6 @@ Generic PLA 1.75mm profile. The data in this file may not be correct for your sp
                 <cura:setting key="cool_fan_speed_min">80</cura:setting>
             </hotend>
         </machine>
-        
+
     </settings>
 </fdmmaterial>

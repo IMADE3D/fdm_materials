@@ -10,7 +10,7 @@ Generic PETG 1.75mm profile. The data in this file may not be correct for your s
             <color>Generic</color>
         </name>
         <GUID>51edd34-81ad-4a52-8b3e-b8a6fe59b4ca</GUID>
-        <version>2</version>
+        <version>3</version>
         <color_code>#eb006a</color_code>
         <description>PETG is strong and chemically resistant. A great material for mechanical applications. It's more sticky, oozy, and moderately hydrophilic. You must keep it dry!</description>
         <adhesion_info>Hot bed is more or less a necessity! Expect slight warping on cold bed. Use blue tape with cold bed and a bare PEI sheet with hot bed.</adhesion_info>
@@ -22,7 +22,7 @@ Generic PETG 1.75mm profile. The data in this file may not be correct for your s
     <settings>
         <setting key="print temperature">230</setting>
         <setting key="heated bed temperature">65</setting>
-        <setting key="standby temperature">120</setting>
+        <setting key="standby temperature">190</setting>
 
         <machine>
             <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX"/>
@@ -35,7 +35,7 @@ Generic PETG 1.75mm profile. The data in this file may not be correct for your s
                 <cura:setting key="cool_fan_speed_min">30</cura:setting>
             </hotend>
         </machine>
-        
+
         <machine>
             <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX 2"/>
             <hotend id="0.4 mm">
@@ -47,6 +47,6 @@ Generic PETG 1.75mm profile. The data in this file may not be correct for your s
                 <cura:setting key="cool_fan_speed_min">30</cura:setting>
             </hotend>
         </machine>
-        
+
     </settings>
 </fdmmaterial>
